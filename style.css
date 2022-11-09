@@ -7,6 +7,7 @@ header {
   align-items: center;
   justify-content: center;
   height: 400px;
+  width: 1920px;
   background: url("https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80")
     bottom no-repeat;
   background-size: cover;
@@ -20,6 +21,7 @@ footer {
   padding-top: 12px;
   padding-bottom: 60px;
   text-align: center;
+  width: 1920px;
 }
 footer .links {
   margin-bottom: 50px;
