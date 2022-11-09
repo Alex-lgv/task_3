@@ -18,4 +18,5 @@
 
 ---
 
-_Работа загружена на Github Pages._
+_Работа загружена на Github Pages._  
+https://alex-lgv.github.io/task_3/
